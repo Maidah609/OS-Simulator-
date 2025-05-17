@@ -128,7 +128,3 @@ Enter **RAM** and **storage** (in GB) when prompted.
 
 ---
 
-## 🙌 **Credits**
-
-Crafted by **Maidah Nasir** and **Anza Naseer**
-for the **Operating Systems Lab Project** at **FAST-NU**.
