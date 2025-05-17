@@ -29,7 +29,7 @@
 ### ✅ **Grab the Code:**
 
 ```bash
-git clone https://github.com/Maidah609/OS-Simulator-.git
+git clone https://github.com/Maidah609/OS-Simulator.git
 cd OS-Simulator-/OS_Project
 ```
 
