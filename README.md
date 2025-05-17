@@ -25,11 +25,12 @@
 
 ## 📦 **Setup Guide**
 
+
 ### ✅ **Grab the Code:**
 
 ```bash
-git clone https://github.com/yourusername/maanza-os.git
-cd maanza-os
+git clone https://github.com/Maidah609/OS-Simulator-.git
+cd OS-Simulator-/OS_Project
 ```
 
 ### ✅ **Install Tools:**
