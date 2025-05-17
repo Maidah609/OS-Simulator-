@@ -1,5 +1,4 @@
-#**Operating System Simulator**#
-# 🚀 **MAANZA OS: A Terminal-Powered Mini OS**
+# 🚀 **MAANZA OS: A Terminal-Powered OS**
 
 **MAANZA OS** is a vibrant, C++-based terminal application suite that emulates a lightweight operating system. Built for Ubuntu, it offers a colorful interface with a central menu to launch utilities, games, and media players, complete with resource tracking and a secure login system. Perfect for exploring OS concepts in a fun, interactive way!
 
